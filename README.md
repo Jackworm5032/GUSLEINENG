@@ -1,2 +1,2 @@
-# GUSLEINENG
-for personal use
+# for personal use
+
